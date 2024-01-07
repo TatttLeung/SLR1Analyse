@@ -1,0 +1,5 @@
+Z->S
+S->I
+S->o
+I->iS
+I->iSeS

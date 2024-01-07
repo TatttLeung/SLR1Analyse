@@ -1,0 +1,10 @@
+S->ABC
+S->D
+A->aB
+A->@
+B->cC
+B->@
+C->eC
+C->@
+D->i
+D->j
